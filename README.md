@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm an full-stack developer, building practical and maintainable solutions for modern business needs.<br><br>🖥️ Programming: I enjoy working with Python, focusing on clean documentation, efficient data structures, and functional programming techniques<br><br>📁 Project Organization: I prioritize clear project structures, organizing code, libraries, and web assets for maintainability and collaboration<br><br>🤖 Intelligent Systems: Specializing in intelligent systems at UC Irvine, I apply AI and machine learning techniques to streamline business tasks and drive innovation. My work focuses on integrating advanced algorithms and automation into real-world applications to enhance efficiency and deliver measurable results.
+## I'm Arnav, a full-stack developer, building practical and maintainable solutions for modern business needs
+**🖥️ Programming:** <br>
+I enjoy working with Python, focusing on clean documentation, efficient data structures, and functional programming techniques 
+<br><br> **📁 Project Organization:** <br>
+I prioritize clear project structures, organizing code, libraries, and web assets for maintainability and collaboration
+<br><br> **🤖 Intelligent Systems:** <br>
+Specializing in intelligent systems at UC Irvine, I apply AI and machine learning techniques to streamline business tasks and drive innovation. My work focuses on integrating advanced algorithms and automation into real-world applications to enhance efficiency and deliver measurable results.
 
 # 💻 Tech Stack:
 
@@ -20,5 +26,5 @@ I'm an full-stack developer, building practical and maintainable solutions for m
 
 # 🐱 GitHub:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=arrrnav&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-![](https://nirzak-streak-stats.vercel.app/?user=arrrnav&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrrnav&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+| ![](https://nirzak-streak-stats.vercel.app/?user=arrrnav&theme=catppuccin_mocha&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrrnav&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+|:--:|:--:|
