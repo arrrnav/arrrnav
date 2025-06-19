@@ -7,7 +7,7 @@ I prioritize clear project structures, organizing code, libraries, and web asset
 <br><br> **🤖 Intelligent Systems:** <br>
 Specializing in intelligent systems at UC Irvine, I apply AI and machine learning techniques to streamline business tasks and drive innovation. My work focuses on integrating advanced algorithms and automation into real-world applications to enhance efficiency and deliver measurable results.
 
-# 💻 Tech Stack:
+# 🔧 Tech Stack:
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) 
