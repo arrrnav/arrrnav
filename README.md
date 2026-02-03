@@ -24,7 +24,7 @@ Specializing in intelligent systems at UC Irvine, I apply AI and machine learnin
 ## CI/CD
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) 
 
-# 🐱 GitHub:
+<!-- # 🐱 GitHub:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=arrrnav&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-| ![](https://nirzak-streak-stats.vercel.app/?user=arrrnav&theme=catppuccin_mocha&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrrnav&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+<!-- | ![](https://nirzak-streak-stats.vercel.app/?user=arrrnav&theme=catppuccin_mocha&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrrnav&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 |:--:|:--:|
